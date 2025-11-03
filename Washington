@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Spv-Script/voxium/refs/heads/main/sab'))()
